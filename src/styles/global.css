@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #323238;
+}
+
+
+body, html, input, botton {
+  font-family: 'Poppins', sans-serif;
+}
